@@ -1,10 +1,17 @@
-> `ko-kr`
-
-# do-not-open-preview-editor-with-single-click
+# do-not-open-preview-editor-with-single-click (ko-kr)
 
 <img src="./assets/image-01.webp" width=300>
 
 `제발 클릭 한 번으로 CODE PREVIEW EDITOR 를 열지말아줘!`
+
+
+## How to Install?
+
+1. Visit [Microsoft VS Marketplace](https://marketplace.visualstudio.com/publishers/do-not-open-preview-editor-with-single-click)
+
+2. Or launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+
+   `ext install dc5v.do-not-open-preview-editor-with-single-click`
 
 ## 이 extenstion은 무엇인가?
 
@@ -49,11 +56,17 @@ ADHD 동지들이여. 조금이라도 도움이 된다면, 조금 만 더 힘을
 
 ---
 
-> `en-us`
-
-## do-not-open-preview-editor-with-single-click
+## do-not-open-preview-editor-with-single-click (en-us)
 
 `Please, don't open the CODE PREVIEW EDITOR with a single click!`
+
+### How to Install?
+
+1. Visit [Microsoft VS Marketplace](https://marketplace.visualstudio.com/publishers/do-not-open-preview-editor-with-single-click)
+
+2. Or launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+
+   `ext install dc5v.do-not-open-preview-editor-with-single-click`
 
 ### What is this extension?
 
