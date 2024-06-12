@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# TypeScript compiled output
+out/
+
+# Logs
+*.log
+npm-debug.log*
+
+# VS Code workspace settings
+.vscode/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Ignore VS Code extensions development files
+.vscode-test/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
