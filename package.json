@@ -2,6 +2,8 @@
   "name": "do-not-open-preview-editor-with-single-click",
   "displayName": "do-not-open-preview-editor-with-single-click",
   "description": "Disable code preview editor with a single click!",
+  "repository": "https://github.com/dc5v/vscode-extension-do-not-open-preview-editor-with-single-click.git",
+  "author": "Kinomoto <dev@dc5v.com>",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.90.0"
