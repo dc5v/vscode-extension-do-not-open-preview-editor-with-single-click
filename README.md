@@ -49,7 +49,7 @@ ADHD 동지들이여. 조금이라도 도움이 된다면, 조금 만 더 힘을
 
 | Donation |
 |:--------:|
-| <img src="./assets/wallet.png" width="200">             |
+| <img src="./assets/donation.png" width="200">             |
 | bitcoin:bc1qmxdlw8yh9fjhnrghdm8l0y0etzsg4aghg20hp2      |
 | <small>즐겁게 사용하셨다면 도네이션 한 푼 해주세요! 땡큐감사<small> |
 
@@ -104,7 +104,7 @@ Fellow ADHD comrades, if this helps even a little, hang in there and let's keep 
 
 | Donation |
 |:--------:|
-| <img src="./assets/wallet.png" width="200">                                 |
+| <img src="./assets/donation.png" width="200">                                 |
 | bitcoin:bc1qmxdlw8yh9fjhnrghdm8l0y0etzsg4aghg20hp2                          |
 | <small>If you enjoyed using it, consider throwing a donation my way!<small> |
 
