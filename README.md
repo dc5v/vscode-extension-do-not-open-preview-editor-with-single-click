@@ -1,5 +1,7 @@
 # do-not-open-preview-editor-with-single-click
 
+<img src="./assets/image-01.webp" width=300>
+
 `Please, don't open the CODE PREVIEW EDITOR with a single click!`
 
 ## How to Install?
